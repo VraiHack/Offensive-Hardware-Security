@@ -4,9 +4,11 @@ The main objectives from this bibliographic search are:
 - And second, to demonstrate the importance of these attack on our daily life.
 
 ### Topics will be covered in this research
+-------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/VraiHack/Offensive-Hardware-Security/assets/26716241/4b0a4638-3b04-4136-b9ba-91b27f82f6f0)
 
 ### Disclaimer
+-------------------------------------------------------------------------------------------------------------------------------
 The bibliographic search presented herein was conducted and completed as an independent consultant. None of the research presented herein was conducted under the auspices of my current employer or university. 
 All the information presented in this research are referenced to their original owners and publishers, there is no copy past. 
 Some opinions and exercises expressed in this research are mine only and do not reflect the views, information, or opinions of my current employer. 
