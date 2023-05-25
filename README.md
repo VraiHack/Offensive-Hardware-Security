@@ -2,8 +2,9 @@
 The main objectives from this bibliographic search are:
 - First, having full image on the hardware security attacks (no cover for counter-measures) by presenting them without complexity. 
 - And second, to demonstrate the importance of these attack on our daily life.
-![image](https://github.com/VraiHack/Offensive-Hardware-Security/assets/26716241/266413ff-2643-48bd-915a-9a575bd96761)
 
+### Topics will be covered in this research
+![image](https://github.com/VraiHack/Offensive-Hardware-Security/assets/26716241/4b0a4638-3b04-4136-b9ba-91b27f82f6f0)
 
 ### Disclaimer
 The bibliographic search presented herein was conducted and completed as an independent consultant. None of the research presented herein was conducted under the auspices of my current employer or university. 
