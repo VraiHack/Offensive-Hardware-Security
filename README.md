@@ -1,7 +1,7 @@
-# Offensive-Hardware-Security
+### Offensive Hardware Security
 The main objectives from this bibliographic search are:
-- First, having full image on the hardware security attacks (no cover for counter-measures) by presenting them without complexity. 
-- And second, to demonstrate the importance of these attack on our daily life.
+* First, having full image on the hardware security attacks (no cover for counter-measures) by presenting them without complexity. 
+* And second, to demonstrate the importance of these attack on our daily life.
 
 ### Topics will be covered in this research
 -------------------------------------------------------------------------------------------------------------------------------
