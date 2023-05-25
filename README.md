@@ -1,4 +1,4 @@
-### main objectives from this bibliographic search:
+### Main objectives from this bibliographic search:
 -------------------------------------------------------------------------------------------------------------------------------
 First, having full image on the hardware security attacks (no cover for counter-measures) by presenting them without complexity. 
 And second, to demonstrate the importance of these attack by examples.
