@@ -5,7 +5,8 @@ And second, to demonstrate the importance of these attack by examples.
 
 ### Topics will be covered in this research
 -------------------------------------------------------------------------------------------------------------------------------
-![image](https://github.com/VraiHack/Offensive-Hardware-Security/assets/26716241/4b0a4638-3b04-4136-b9ba-91b27f82f6f0)
+![image](https://github.com/VraiHack/Offensive-Hardware-Security/assets/26716241/c4306a4a-b4ae-4666-a41e-3d57c6c5ee37)
+
 
 ### Disclaimer
 -------------------------------------------------------------------------------------------------------------------------------
